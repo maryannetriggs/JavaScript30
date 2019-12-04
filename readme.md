@@ -13,8 +13,12 @@ A fun little project, my kids are going to love. A good revision session about D
 [Link to the w3schools page](https://www.w3schools.com/tags/att_data-.asp)
 
 ### Day 2 - JS and CSS Clock
-Surprisingly quick to complete and hypnotising to watch. I've always found dates in JS quite tiresome so nice to have a good experience and build some more knowledge. Today I learned more about transition and transform attributes in CSS and actually how much fancy stuff can be acheived through CSS and vanilla JavaScript alone. 
+Surprisingly quick to complete and hypnotising to watch. I've always found dates in JS quite tiresome so nice to have a good experience and build some more knowledge. Today I learned more about transition and transform attributes in CSS and actually how much fancy stuff can be achieved through CSS and vanilla JavaScript alone. 
 
+### Day 3 - CSS Variables
+Funky little project to learn about CSS variables, which I had no idea even existed outside of SASS. Today I learnt the difference between a node list and an array (spoiler: built-in methods) [Link to the w3schools page](https://www.w3schools.com/js/js_htmldom_nodelist.asp). I also learnt about 'dataset', an in-built object that stores info about all the data-* attributes on a HTML element.
+
+### Day 4 - Array Cardio Day 1
 
 ---
 
