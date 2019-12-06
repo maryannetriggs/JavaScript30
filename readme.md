@@ -22,6 +22,10 @@ Funky little project to learn about CSS variables, which I had no idea even exis
 Wow! This day definitely felt more intense. Really flexing those ES6 muscles. A great lesson, the first time I encountered array methods I freaked but since then I've discovered how amazingly useful they are. This session was a great refresher and pushed my understanding much further. Firstly, console.table... life-changer. Secondly, I never truly understood the breadth of tasks .reduce could be used for, so good to go through these additional examples. I also learned some handy formatting for stringing together array methods to make my code more readable. [Link to the w3schools page](https://www.w3schools.com/js/js_array_methods.asp).
 
 ### Day 5 - Flex Panel Gallery
+A really beautiful project, with a feel-good outcome. Today I learned how little I utilise the various different CSS selectors and got some inspiration for future projects. CSS Diner is great site for practising [CSS Diner](https://flukeout.github.io/), a good reminder about toggling Class names in the DOM also.
+
+### Day 6 - Type Ahead
+
 
 ---
 
