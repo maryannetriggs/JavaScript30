@@ -2,7 +2,7 @@
 
 # JavaScript30
 
-Following my completion of the General Assembly Software Engineering Imersive course, I wanted to keep working on my technical skills whilst updating my job search tools. See below for my lessons learnt coding along with Wes's **JavaScript30** and check GitHub for my completed solutions.
+Following my completion of the General Assembly Software Engineering Immersive course, I wanted to keep working on my technical skills whilst updating my job search tools. See below for my lessons learnt coding along with Wes's **JavaScript30** and check GitHub for my completed solutions.
 
 Grab the course yourself at [https://JavaScript30.com](https://JavaScript30.com)
 
@@ -29,6 +29,8 @@ A lot to get my head round today. Heavier on the array methods and just a bit mo
 
 ### Day 7 - Array Cardio Day 2
 Definitely feeling the Codewars vibe with today's session. I've never used any of these array method before so lots learned! Also building my knowledge of when it's appropriate to use the spread operator (so often! It's an incredibly useful critter).
+
+### Day 8 - Fun with HTML5 Canvas
 
 ---
 
