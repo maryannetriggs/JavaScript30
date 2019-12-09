@@ -25,10 +25,10 @@ Wow! This day definitely felt more intense. Really flexing those ES6 muscles. A 
 A really beautiful project, with a feel-good outcome. Today I learned how little I utilise the various different CSS selectors and got some inspiration for future projects. CSS Diner is great site for practising [CSS Diner](https://flukeout.github.io/), a good reminder about toggling Class names in the DOM also.
 
 ### Day 6 - Type Ahead
-A lot to get my head roun today. Heavier on the array methods and just a bit more complicated linking everything together. Today I learnt more about regular expressions which have always felt a little bit like black magic to me. I didn't know 'g' was global and that 'i' was insensitive. [Link to the w3schools page](https://www.w3schools.com/js/js_regexp.asp). I think I'll need to spend some more time reviewing this mini-project. It's very impressive what can be achieved with data found on the internet though!!
+A lot to get my head round today. Heavier on the array methods and just a bit more complicated linking everything together. Today I learnt more about regular expressions which have always felt a little bit like black magic to me. I didn't know 'g' was global and that 'i' was insensitive. [Link to the w3schools page](https://www.w3schools.com/js/js_regexp.asp). I think I'll need to spend some more time reviewing this mini-project. It's very impressive what can be achieved with data found on the internet though!!
 
 ### Day 7 - Array Cardio Day 2
-
+Definitely feeling the Codewars vibe with today's session. I've never used any of these array method before so lots learned! Also building my knowledge of when it's appropriate to use the spread operator (so often! It's an incredibly useful critter).
 
 ---
 
