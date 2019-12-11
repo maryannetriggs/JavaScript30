@@ -31,6 +31,10 @@ A lot to get my head round today. Heavier on the array methods and just a bit mo
 Definitely feeling the Codewars vibe with today's session. I've never used any of these array method before so lots learned! Also building my knowledge of when it's appropriate to use the spread operator (so often! It's an incredibly useful critter).
 
 ### Day 8 - Fun with HTML5 Canvas
+I've been hoping to get some experience playing with Canvas and this only makes me want to explore more. A great little project playing with colours (hsl) and integrating some more JS logic into making a usable application. I'd like to spend more time investigating what Canvas can do but today I learnt the basics of set up and also practiced using boolean operators in real life!
+
+### Day 9 - Dev Tools Domination
+
 
 ---
 
