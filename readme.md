@@ -34,7 +34,9 @@ Definitely feeling the Codewars vibe with today's session. I've never used any o
 I've been hoping to get some experience playing with Canvas and this only makes me want to explore more. A great little project playing with colours (hsl) and integrating some more JS logic into making a usable application. I'd like to spend more time investigating what Canvas can do but today I learnt the basics of set up and also practiced using boolean operators in real life! [Link to the w3schools page](https://www.w3schools.com/tags/ref_canvas.asp)
 
 ### Day 9 - Dev Tools Domination
-Well, Wes said we'd learn 1 or 2 things but I found a whole new world with console methods. Discovering the attribute modification option to discover sneaky hidden JS in your webpage was a gamechanger along with console.group [Link to the MDN page](https://developer.mozilla.org/en-US/docs/Web/API/Console/group) (which indents following console messages by group) and console.dir (which displays the available properties and methods available for use on the selected object) [Link to the MDN page](https://developer.mozilla.org/en-US/docs/Web/API/Console/dir)
+Well, Wes said we'd learn 1 or 2 things but I found a whole new world with console methods. Discovering the attribute modification option to discover sneaky hidden JS in your webpage was a game changer along with console.group [Link to the MDN page](https://developer.mozilla.org/en-US/docs/Web/API/Console/group) (which indents following console messages by group) and console.dir (which displays the available properties and methods available for use on the selected object) [Link to the MDN page](https://developer.mozilla.org/en-US/docs/Web/API/Console/dir)
+
+### Day 10 - Hold Shift and Check Checkboxes
 
 ---
 
