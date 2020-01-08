@@ -9,7 +9,7 @@
   <p onClick="makeGreen()">×BREAK×DOWN×</p>
 
   <script>
-    const dogs = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
+    const dogs = [{ name: 'Snickers', age: 2 }, { name: 'Hugo', age: 8 }];
 
     function makeGreen() {
       const p = document.querySelector('p');
@@ -18,28 +18,69 @@
     }
 
     // Regular
+    console.log('Hello')
 
     // Interpolated
+    console.log('Hello I am a %s string!', '💩')
 
     // Styled
+      console.log('%c I am a wonderful example of text', 'font-size: 50px; background: red')
 
     // warning!
+    console.warn('this is a warning')
 
     // Error :|
+    console.error('this is a error')
 
     // Info
+    console.info('Some cats are allergic to people')
 
     // Testing
+    const p = document.querySelector('p')
+
+    console.assert(p.classList.contains('ouch'), 'That is wrong!')
+    console.assert(1 === 2, 'incorrect')
 
     // clearing
+    console.clear()
 
     // Viewing DOM Elements
+    console.log(p)
+    console.dir(p)
+
+    console.clear()
 
     // Grouping together
+    dogs.forEach(dog =>{
+      console.group(`${dog.name}`)
+      // console.groupCollapsed(`${dog.name}`)
+      console.log(`This is ${dog.name}`)
+      console.log(`${dog.name} is ${dog.age}`)
+      console.log(`${dog.name} is ${dog.age * 7} in dog years!`)
+      console.groupEnd(`${dog.name}`)
+    })
 
     // counting
+    console.count('mouse')
+    console.count('mouse')
+    console.count('cheese')
+    console.count('mouse')
+    console.count('cheese')
+    console.count('cheese')
+    console.count('mouse')
+    console.count('mouse')
+    console.count('cheese')
 
     // timing
+    console.time('fetching data');
+    fetch('https://api.github.com/users/wesbos')
+      .then(data => data.json())
+      .then(data => {
+        console.timeEnd('fetching data')
+        console.log(data)
+      });
+
+    console.table(dogs)
 
   </script>
 </body>

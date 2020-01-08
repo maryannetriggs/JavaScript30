@@ -31,10 +31,10 @@ A lot to get my head round today. Heavier on the array methods and just a bit mo
 Definitely feeling the Codewars vibe with today's session. I've never used any of these array method before so lots learned! Also building my knowledge of when it's appropriate to use the spread operator (so often! It's an incredibly useful critter).
 
 ### Day 8 - Fun with HTML5 Canvas
-I've been hoping to get some experience playing with Canvas and this only makes me want to explore more. A great little project playing with colours (hsl) and integrating some more JS logic into making a usable application. I'd like to spend more time investigating what Canvas can do but today I learnt the basics of set up and also practiced using boolean operators in real life!
+I've been hoping to get some experience playing with Canvas and this only makes me want to explore more. A great little project playing with colours (hsl) and integrating some more JS logic into making a usable application. I'd like to spend more time investigating what Canvas can do but today I learnt the basics of set up and also practiced using boolean operators in real life! [Link to the w3schools page](https://www.w3schools.com/tags/ref_canvas.asp)
 
 ### Day 9 - Dev Tools Domination
-
+Well, Wes said we'd learn 1 or 2 things but I found a whole new world with console methods. Discovering the attribute modification option to discover sneaky hidden JS in your webpage was a gamechanger along with console.group [Link to the MDN page](https://developer.mozilla.org/en-US/docs/Web/API/Console/group) (which indents following console messages by group) and console.dir (which displays the available properties and methods available for use on the selected object) [Link to the MDN page](https://developer.mozilla.org/en-US/docs/Web/API/Console/dir)
 
 ---
 
