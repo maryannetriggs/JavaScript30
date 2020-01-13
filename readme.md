@@ -38,6 +38,8 @@ Well, Wes said we'd learn 1 or 2 things but I found a whole new world with conso
 
 ### Day 10 - Hold Shift and Check Checkboxes
 
+### Day 11 - Custom Video Player
+
 ---
 
 ## Author - Mary-Anne Triggs
