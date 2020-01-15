@@ -37,6 +37,7 @@ I've been hoping to get some experience playing with Canvas and this only makes 
 Well, Wes said we'd learn 1 or 2 things but I found a whole new world with console methods. Discovering the attribute modification option to discover sneaky hidden JS in your webpage was a game changer along with console.group [Link to the MDN page](https://developer.mozilla.org/en-US/docs/Web/API/Console/group) (which indents following console messages by group) and console.dir (which displays the available properties and methods available for use on the selected object) [Link to the MDN page](https://developer.mozilla.org/en-US/docs/Web/API/Console/dir)
 
 ### Day 10 - Hold Shift and Check Checkboxes
+An interesting little play around with event listeners and logic. I'll admit I couldn't complete this one without the instructions. No really new concepts for me but so good to have a fresh example of putting all these simple concepts together. Pulled together use of the DOM, event listeners, functions, variables and logic statements.
 
 ### Day 11 - Custom Video Player
 
