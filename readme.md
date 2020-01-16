@@ -41,6 +41,7 @@ An interesting little play around with event listeners and logic. I'll admit I c
 
 ### Day 11 - Custom Video Player
 
+A huge chunk of a project which took a loooong time but I tried to work through the problems on my own before following the tutorial as Wes had suggested. More practice with event listeners and functions and especially with the HTML video tag and the various properties. Proud of this one!
 ---
 
 ## Author - Mary-Anne Triggs
