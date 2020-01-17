@@ -42,6 +42,13 @@ An interesting little play around with event listeners and logic. I'll admit I c
 ### Day 11 - Custom Video Player
 
 A huge chunk of a project which took a loooong time but I tried to work through the problems on my own before following the tutorial as Wes had suggested. More practice with event listeners and functions and especially with the HTML video tag and the various properties. Proud of this one!
+
+### Day 12 - Key Sequence Detection
+
+Short and sweet. A quick reminder of the joy of array methods and that I need more practice with them! Loved the Cornify function, absolutely brilliant! [cornify.com](https://www.cornify.com/)
+
+### Day 13 - Slide in on Scroll
+
 ---
 
 ## Author - Mary-Anne Triggs
