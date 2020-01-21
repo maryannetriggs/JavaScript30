@@ -50,6 +50,13 @@ Short and sweet. A quick reminder of the joy of array methods and that I need mo
 ### Day 13 - Slide in on Scroll
 
 A maths heavy lesson, which I love. I've always wanted to know how this image effect was created and love how simple it is. The debounce function was a little confusing but revising the classList 'add' and 'remove' methods was useful. 
+
+### Day 14 - JavaScript References VS Copying
+
+A useful reminder of the behaviour of mutable and immutable objects withing JavaScript. Nice to see that the ES6 spread operator has now come to objects as well as arrays. Need to keep this lesson in mind for my future projects. [Link to the MDN page](https://developer.mozilla.org/en-US/docs/Glossary/Mutable)
+
+### Day 15 - Local Storage
+
 ---
 
 ## Author - Mary-Anne Triggs
