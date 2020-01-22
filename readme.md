@@ -53,9 +53,15 @@ A maths heavy lesson, which I love. I've always wanted to know how this image ef
 
 ### Day 14 - JavaScript References VS Copying
 
-A useful reminder of the behaviour of mutable and immutable objects withing JavaScript. Nice to see that the ES6 spread operator has now come to objects as well as arrays. Need to keep this lesson in mind for my future projects. [Link to the MDN page](https://developer.mozilla.org/en-US/docs/Glossary/Mutable)
+A useful reminder of the behaviour of mutable and immutable objects within JavaScript. Nice to see that the ES6 spread operator has now come to objects as well as arrays. Need to keep this lesson in mind for my future projects. [Link to the MDN page](https://developer.mozilla.org/en-US/docs/Glossary/Mutable)
 
 ### Day 15 - Local Storage
+
+A real busy an challenging project today. I learned loads including the difference between click and submit cues for event listeners [Link to the w3schools page on event listeners](https://www.w3schools.com/js/js_htmldom_eventlistener.asp), that forms have an inbuilt reset method and that you can cleverly customise your own checklist styling using pseudoclasses within CSS (Link to the MDN page)[https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes]. I also gained a clearer understanding on why we target the parent element when using event listeners (event delegation), particularly enjoyed the analogy for this too 😂
+
+### Day 16 - Mouse Move Shadow
+
+
 
 ---
 
