@@ -57,11 +57,13 @@ A useful reminder of the behaviour of mutable and immutable objects within JavaS
 
 ### Day 15 - Local Storage
 
-A real busy an challenging project today. I learned loads including the difference between click and submit cues for event listeners [Link to the w3schools page on event listeners](https://www.w3schools.com/js/js_htmldom_eventlistener.asp), that forms have an inbuilt reset method and that you can cleverly customise your own checklist styling using pseudoclasses within CSS (Link to the MDN page)[https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes]. I also gained a clearer understanding on why we target the parent element when using event listeners (event delegation), particularly enjoyed the analogy for this too 😂
+A real busy and challenging project today. I learned loads including the difference between click and submit cues for event listeners [Link to the w3schools page](https://www.w3schools.com/js/js_htmldom_eventlistener.asp), that forms have an inbuilt reset method and that you can cleverly customise your own checklist styling using pseudoclasses within CSS (Link to the MDN page)[https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes]. I also gained a clearer understanding on why we target the parent element when using event listeners (event delegation), particularly enjoyed the analogy for this too 😂
 
 ### Day 16 - Mouse Move Shadow
 
+A neat little trick learned today, further impressing on me how much can be achieved with CSS. A good reminder of the Math object and its many methods [Link to the w3schools page](https://www.w3schools.com/js/js_math.asp) plus lots more practice with the x and y mouse events. I love a maths heavy session so this was really enjoyable for me.
 
+### Day 17 - Sort Without Articles
 
 ---
 
