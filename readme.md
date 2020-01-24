@@ -65,6 +65,12 @@ A neat little trick learned today, further impressing on me how much can be achi
 
 ### Day 17 - Sort Without Articles
 
+A really useful session. Good practice with regular expressions and learning how to manipulate your data into the format you require before you work with it [Link to the w3schools page](https://www.w3schools.com/js/js_regexp.asp). I've also learned how much I enjoy simplifying logic using ternary operators.
+
+### Day 18 - Adding Up Times with Reduce
+
+
+
 ---
 
 ## Author - Mary-Anne Triggs
