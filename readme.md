@@ -69,6 +69,10 @@ A really useful session. Good practice with regular expressions and learning how
 
 ### Day 18 - Adding Up Times with Reduce
 
+A good practical lesson, less flashy but super useful. Today I was reminded of the use of Array.from and the differences between node lists and arrays. I also revised how some methods (e.g. split) create fun problems with datatypes and I learned a novel use of the modulus operator. A good solid lesson!
+
+### Day 19 - Webcam Fun
+
 
 
 ---
