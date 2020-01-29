@@ -73,6 +73,10 @@ A good practical lesson, less flashy but super useful. Today I was reminded of t
 
 ### Day 19 - Webcam Fun
 
+### Day 22 - Follow Along Link Highlighter
+This project is super pretty and snappy. I had completely forgotten the DOM append child method, great to go through again [Link to the w3schools page](https://www.w3schools.com/jsref/met_node_appendchild.asp). Also, the getBoundingClientRect() method was a revelation! How useful is this going to be?!
+
+
 
 
 ---
