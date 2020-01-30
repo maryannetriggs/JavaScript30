@@ -73,6 +73,10 @@ A good practical lesson, less flashy but super useful. Today I was reminded of t
 
 ### Day 19 - Webcam Fun
 
+### Day 21 - Geolocation
+
+Where to start with this one?! No idea you could simulate how code runs on various iOS devices with Xcode, really cool! I need to look more into this. Also a good brush up on using package managers like yarn and npm. Must checkout yarn 2 sometime... Aside from that, real simple JS today, the CSS once again making such an impact. Nice intro to the inbuilt navigator object too [Link to the w3schools page](https://www.w3schools.com/jsref/obj_navigator.asp).
+
 ### Day 22 - Follow Along Link Highlighter
 This project is super pretty and snappy. I had completely forgotten the DOM append child method, great to go through again [Link to the w3schools page](https://www.w3schools.com/jsref/met_node_appendchild.asp). Also, the getBoundingClientRect() method was a revelation! How useful is this going to be?!
 
