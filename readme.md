@@ -57,7 +57,7 @@ A useful reminder of the behaviour of mutable and immutable objects within JavaS
 
 ### Day 15 - Local Storage
 
-A real busy and challenging project today. I learned loads including the difference between click and submit cues for event listeners [Link to the w3schools page](https://www.w3schools.com/js/js_htmldom_eventlistener.asp), that forms have an inbuilt reset method and that you can cleverly customise your own checklist styling using pseudoclasses within CSS (Link to the MDN page)[https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes]. I also gained a clearer understanding on why we target the parent element when using event listeners (event delegation), particularly enjoyed the analogy for this too 😂
+A real busy and challenging project today. I learned loads including the difference between click and submit cues for event listeners [Link to the w3schools page](https://www.w3schools.com/js/js_htmldom_eventlistener.asp), that forms have an inbuilt reset method and that you can cleverly customise your own checklist styling using pseudoclasses within CSS [Link to the MDN page](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes). I also gained a clearer understanding on why we target the parent element when using event listeners (event delegation), particularly enjoyed the analogy for this too 😂
 
 ### Day 16 - Mouse Move Shadow
 
@@ -72,6 +72,12 @@ A really useful session. Good practice with regular expressions and learning how
 A good practical lesson, less flashy but super useful. Today I was reminded of the use of Array.from and the differences between node lists and arrays. I also revised how some methods (e.g. split) create fun problems with datatypes and I learned a novel use of the modulus operator. A good solid lesson!
 
 ### Day 19 - Webcam Fun
+
+Seemed like a pretty intense undertaking upon first inspection but accessing the webcam with JavaScript is easy! You call getUserMedia() to get a promise and then manipulate as you please. Funky 'filter' effects can then be achieved by accessing and changing pixel configurations in canvas [Link to the MDN page](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Pixel_manipulation_with_canvas). Today was a longer session than most but well worth the extra time. This one is really going to impress my kids!
+
+### Day 20 - Speech Detection
+
+
 
 ### Day 21 - Geolocation
 
