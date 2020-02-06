@@ -77,7 +77,7 @@ Seemed like a pretty intense undertaking upon first inspection but accessing the
 
 ### Day 20 - Speech Detection
 
-Today's session was SO MUCH FUN! Once again an idea I had no idea would be so simple to actually implement - voice recognition within the browser [Link to the MDN page](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition) .Some good use of JS array methods, event listeners and DOM manipulation today with some bonus dealing with nested data. Super quick and fun session, learned loads, perfect!
+Today's session was SO MUCH FUN! Once again an idea I had no idea would be so simple to actually implement - voice recognition within the browser [Link to the MDN page](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition) .Some good use of JS array methods, event listeners and DOM manipulation  with some bonus handling of nested data. Super quick and fun session, learned loads, perfect!
 
 ### Day 21 - Geolocation
 
