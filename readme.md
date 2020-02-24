@@ -88,7 +88,7 @@ This project is super pretty and snappy. I had completely forgotten the DOM appe
 
 ### Day 23 - Speech Synthesis
 
-
+Another fun day playing with speech within the browser. Today I learned more about the Web Speech API, including configuration of language and pitch and particularly about speech synthesis. Another little lesson was how useful anonymous functions can be to prevent event listener running on page load [Link to the w3schools page](https://www.w3schools.com/js/js_function_definition.asp).
 
 ---
 
