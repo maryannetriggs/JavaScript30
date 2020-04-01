@@ -90,6 +90,12 @@ This project is super pretty and snappy. I had completely forgotten the DOM appe
 
 Another fun day playing with speech within the browser. Today I learned more about the Web Speech API, including configuration of language and pitch and particularly about speech synthesis. Another little lesson was how useful anonymous functions can be to prevent event listener running on page load [Link to the w3schools page](https://www.w3schools.com/js/js_function_definition.asp).
 
+### Day 24 - Sticky Nav
+
+Cute little piece of functionality learned today, animation of the nav bar on scroll. Good use of the .offsetHeight property on HTML elements to ensure smooth transitions when changing the CSS position property to fixed [Link to the MDN page](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetHeight).
+
+### Day 25 - Event Capture, Propagation, Bubbling and Once
+
 ---
 
 ## Author - Mary-Anne Triggs

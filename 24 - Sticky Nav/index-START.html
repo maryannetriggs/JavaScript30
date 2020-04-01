@@ -44,16 +44,31 @@
 
 <script>
 
-const bar = () => console.log('bar')
-const baz = () => console.log('baz');
+const nav = document.querySelector('#main')
+const topOfNav = nav.offsetTop
 
-const foo = () => {
-  console.log('foo')
-  setTimeout(bar, 0)
-  baz()
+function fixedNav() {
+  if (window.scrollY >= topOfNav) {
+    document.body.classList.add('fixed-nav')
+    document.body.style.paddingTop = `${nav.offsetHeight}px`
+  } else {
+    document.body.classList.remove('fixed-nav')
+    document.body.style.paddingTop = 0
+  }
 }
 
-foo()
+window.addEventListener('scroll', fixedNav)
+
+// const bar = () => console.log('bar')
+// const baz = () => console.log('baz')
+
+// const foo = () => {
+//   console.log('foo')
+//   setTimeout(bar, 0)
+//   baz()
+// }
+
+// foo()
 
 
 
