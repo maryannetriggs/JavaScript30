@@ -96,6 +96,10 @@ Cute little piece of functionality learned today, animation of the nav bar on sc
 
 ### Day 25 - Event Capture, Propagation, Bubbling and Once
 
+More of an informative session today. Learning the ins and outs of event listeners [Link to the w3schools page](https://www.w3schools.com/js/js_htmldom_eventlistener.asp). Specifically propagation and bubbling, beautifully explained here [Link to the javscript.info page](https://javascript.info/bubbling-and-capturing). A really good explanation of the once property and a good case use of when you'd only want an event listener to fire off one time only (online checkouts).
+
+### Day 26 - Stripe Follow Along Nav
+
 ---
 
 ## Author - Mary-Anne Triggs
