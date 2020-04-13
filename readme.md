@@ -100,6 +100,10 @@ More of an informative session today. Learning the ins and outs of event listene
 
 ### Day 26 - Stripe Follow Along Nav
 
+Lovely feature learned today. A follow-along auto-resizing navigation-menu amazing-thing! Another reminder of how useful CSS can be and how simply event listeners can add gorgeous features to your work. A similar lesson to the Follow Along Link Highlighter lesson but something I could see implementing in my own work. No new material covered but a lot of concepts put together.
+
+###¢ Day 27 - Click and Drag
+
 ---
 
 ## Author - Mary-Anne Triggs
