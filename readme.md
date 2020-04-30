@@ -102,7 +102,13 @@ More of an informative session today. Learning the ins and outs of event listene
 
 Lovely feature learned today. A follow-along auto-resizing navigation-menu amazing-thing! Another reminder of how useful CSS can be and how simply event listeners can add gorgeous features to your work. A similar lesson to the Follow Along Link Highlighter lesson but something I could see implementing in my own work. No new material covered but a lot of concepts put together.
 
-###¢ Day 27 - Click and Drag
+### Day 27 - Click and Drag
+
+Good use of various mouse event listener options in today's session with revision of let/const variables. Personally more impressive than the JS was Wes' use of CSS to change div perspective, creating a visually stunning effect I may borrow in the future. Finally, I'd never seen e.preventDefault() used for anything other than preventing a form submission. How cool to know it can also be used to stop selecting of text and other browser quirks. Further research led me to discover the 'cancelable' event property [Link to the w3schools page](https://www.w3schools.com/jsref/event_cancelable.asp).
+
+### Day 28 - Video Speed Controller
+
+
 
 ---
 
