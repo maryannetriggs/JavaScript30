@@ -108,6 +108,14 @@ Good use of various mouse event listener options in today's session with revisio
 
 ### Day 28 - Video Speed Controller
 
+A super mathsy kinda session which I absolutely love. A good little amalgamation of the HTML5 Video element with an event listener. A neat reminder of how to edit the text content through the DOM (I always forget you can do that) [Link to the w3schools page](https://www.w3schools.com/jsref/prop_node_textcontent.asp). Overall a lovely functional project.
+
+### Day 29 - Countdown Timer
+
+
+
+### Day 30 - Whack A Mole!!!
+
 
 
 ---
