@@ -112,6 +112,7 @@ A super mathsy kinda session which I absolutely love. A good little amalgamation
 
 ### Day 29 - Countdown Timer
 
+This felt like a pretty huge session, lots of JS for a simple little timer project. Lots to refresh my brain with and a really robust project for future reference. Today I learned the limitations of setInterval(), it can be buggy during page scroll and when left for periods of time, so is best used within a function. Also a good review of saving timers in variables to be able to use clearInterval(), a concept I found tricky when I first encountered it [Link to the w3schools page](https://www.w3schools.com/js/js_timing.asp). More revision on the Date static method - Date.now() [Link to the MDN page](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/now). Finally I learned that you can reference HTML elements with a name attribute with the following format: document.customeNameAttribute.
 
 
 ### Day 30 - Whack A Mole!!!
