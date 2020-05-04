@@ -67,3 +67,8 @@ h1 {
 .hole.up .mole {
   top: 0;
 }
+
+.start {
+  padding-top: 40px;
+  text-align: center;
+}

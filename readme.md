@@ -117,10 +117,8 @@ This felt like a pretty huge session, lots of JS for a simple little timer proje
 
 ### Day 30 - Whack A Mole!!!
 
-
+A game YAY! What a great way to finish off the course, it really brought together all the concepts we've covered. Today was especially a good example of using appropriate functions. Most interesting today was the isTrusted property on the event object, I would never have thought to prevent fake clicks on a game [Link to the w3schools page](https://www.w3schools.com/jsref/obj_event.asp). Final thoughts: thanks for the amazing course Wes, I learned so much and am ready to move on to my next 970 projects!
 
 ---
 
 ## Author - Mary-Anne Triggs
-
-Please visit my personal [portfolio](www.maryannetriggs.com)
